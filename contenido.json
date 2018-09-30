@@ -1,0 +1,53 @@
+{"dependencias":[
+	{
+		"dependenciaNombre":"Decanatura",
+		"dependenciaNumero":1,
+		"subdependencias":
+		[
+			{
+				"subdependenciaNombre":"Decano",
+				"subdependenciaNumero":1
+			},
+			{
+				"subdependenciaNombre":"SecretariaGeneral",
+				"subdependenciaNumero":1
+			}
+		
+		]
+
+	},
+	{
+		"dependenciaNombre":"depto Sistemas",
+		"dependenciaNumero":4,
+		"subdependencias":
+		[
+			{
+				"subdependenciaNombre":"JefeDepto",
+				"subdependenciaNumero":1
+			},
+			{
+				"subdependenciaNombre":"Tesoreria",
+				"subdependenciaNumero":2
+			}
+		
+		]
+
+	},
+	{
+		"dependenciaNombre":"depto Electronica",
+		"dependenciaNumero":5,
+		"subdependencias":
+		[
+			{
+				"subdependenciaNombre":"JefeDepto",
+				"subdependenciaNumero":1
+			},
+			{
+				"subdependenciaNombre":"Tesoreria",
+				"subdependenciaNumero":2
+			}
+		
+		]
+
+	}
+]}

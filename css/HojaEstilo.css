@@ -1,0 +1,16 @@
+header {
+  /*  padding-top: 2%;*/
+    text-align: center;
+    font-size: 100%;
+    color: red;
+    text-shadow: 0.05em 0.05em black;
+    height: 100%;
+    width: 100%;
+}
+
+#principal{
+    text-align: center;
+}
+body {
+  background-image: url("https://www.google.com.co/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi3jP_X6uLdAhXSxlkKHSFrA4UQjRx6BAgBEAU&url=http%3A%2F%2Fwww.casasparaconstruir.com%2Fproyecto%2F140B%2Fplano-de-casa-clean&psig=AOvVaw19VKUTyyN4-Gem1njkK7KV&ust=1538400521791949");
+}

@@ -1,0 +1,33 @@
+header{
+    text-align:center;
+    color:indigo;
+     text-shadow: 0.05em 0.05em black;
+    height: 100%;
+    width: 100%;
+    border: medium double #369;
+}
+th{
+    border: 1px solid black;
+    padding: 50px;
+    margin:50px;
+    background-color: lightblue; 
+    
+}
+#instrucciones{
+     padding: 5px;
+    margin:15px;
+}
+/*div consecutivo*/
+#cons{
+       float:right;
+    	background-color: #CDC8C7;
+    	padding:15px;
+    	border-radius: 22px 22px 22px 22px;
+    	-moz-border-radius: 22px 22px 22px 22px;
+    	-webkit-border-radius: 22px 22px 22px 22px;
+    	border: 0px solid #000000;
+}
+#colIzquierda,#colDerecha{
+    padding: 50px;
+    
+}
